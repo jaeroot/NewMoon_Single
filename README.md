@@ -12,7 +12,7 @@
 
 프로젝트 파일 : Content 폴더의 아트 에셋 제외
 
-플레이 영상 : 
+플레이 영상 : https://youtu.be/O3JDGD8uGi4
       
 
       
